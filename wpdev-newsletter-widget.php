@@ -3,7 +3,7 @@
 Plugin Name: WPDev Newsletter Widget
 Plugin URI: http://wpdevelopers.com/
 Description: Displays the WPDev Newsletter Signup Form.
-Version: 1.0
+Version: 1.1
 Author: Billy Engler
 License: GPL2
 */
